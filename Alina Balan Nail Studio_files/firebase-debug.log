@@ -1,13 +1,14 @@
-[debug] [2022-12-21T23:06:25.458Z] ----------------------------------------------------------------------
-[debug] [2022-12-21T23:06:25.461Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2022-12-21T23:06:25.462Z] CLI Version:   11.19.0
-[debug] [2022-12-21T23:06:25.462Z] Platform:      win32
-[debug] [2022-12-21T23:06:25.463Z] Node Version:  v18.12.1
-[debug] [2022-12-21T23:06:25.464Z] Time:          Thu Dec 22 2022 01:06:25 GMT+0200 (Восточная Европа, стандартное время)
-[debug] [2022-12-21T23:06:25.464Z] ----------------------------------------------------------------------
+[debug] [2022-12-21T23:15:10.058Z] ----------------------------------------------------------------------
+[debug] [2022-12-21T23:15:10.061Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-21T23:15:10.061Z] CLI Version:   11.19.0
+[debug] [2022-12-21T23:15:10.062Z] Platform:      win32
+[debug] [2022-12-21T23:15:10.062Z] Node Version:  v18.12.1
+[debug] [2022-12-21T23:15:10.063Z] Time:          Thu Dec 22 2022 01:15:10 GMT+0200 (Восточная Европа, стандартное время)
+[debug] [2022-12-21T23:15:10.063Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2022-12-21T23:06:25.474Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2022-12-21T23:06:25.475Z] > authorizing via signed-in user (vova.grab2003@gmail.com)
+[warn] !  JSON error trying to load C:\Users\user\Desktop\alina\Alina Balan Nail Studio_files\.firebaserc 
+[debug] [2022-12-21T23:15:10.080Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-21T23:15:10.081Z] > authorizing via signed-in user (vova.grab2003@gmail.com)
 [info] 
      ######## #### ########  ######## ########     ###     ######  ########
      ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
